@@ -1,0 +1,16 @@
+C:\Users\Agustin\Documents\#Visual Comunity proyectos\LAB\LAB\x64\Debug\LAB.vcxproj.AssemblyReference.cache
+C:\Users\Agustin\Documents\#Visual Comunity proyectos\LAB\LAB\x64\Debug\LAB.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Agustin\Documents\#Visual Comunity proyectos\LAB\LAB\x64\Debug\LAB.Form1.resources
+C:\Users\Agustin\Documents\#Visual Comunity proyectos\LAB\LAB\x64\Debug\LAB.vcxproj.GenerateResource.cache
+C:\Users\Agustin\Documents\#Visual Comunity proyectos\LAB\LAB\x64\Debug\LAB.vcxproj.CopyComplete
+C:\Users\Agustin\Documents\#Visual Comunity proyectos\LAB\LAB\x64\Debug\LAB.Actualizar.resources
+C:\Users\Agustin\Documents\#Visual Comunity proyectos\LAB\LAB\x64\Debug\LAB.Borrar.resources
+C:\Users\Agustin\Documents\#Visual Comunity proyectos\LAB\LAB\x64\Debug\LAB.consultar.resources
+C:\Users\Agustin\Documents\#Visual Comunity proyectos\listo\LAB\LAB\x64\Debug\LAB.vcxproj.AssemblyReference.cache
+C:\Users\Agustin\Documents\#Visual Comunity proyectos\listo\LAB\LAB\x64\Debug\LAB.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Agustin\Documents\#Visual Comunity proyectos\listo\LAB\LAB\x64\Debug\LAB.Actualizar.resources
+C:\Users\Agustin\Documents\#Visual Comunity proyectos\listo\LAB\LAB\x64\Debug\LAB.Borrar.resources
+C:\Users\Agustin\Documents\#Visual Comunity proyectos\listo\LAB\LAB\x64\Debug\LAB.consultar.resources
+C:\Users\Agustin\Documents\#Visual Comunity proyectos\listo\LAB\LAB\x64\Debug\LAB.Form1.resources
+C:\Users\Agustin\Documents\#Visual Comunity proyectos\listo\LAB\LAB\x64\Debug\LAB.vcxproj.GenerateResource.cache
+C:\Users\Agustin\Documents\#Visual Comunity proyectos\listo\LAB\LAB\x64\Debug\LAB.vcxproj.CopyComplete

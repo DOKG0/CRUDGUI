@@ -1,0 +1,8 @@
+C:\Users\Agustin\Documents\#Visual Comunity proyectos\listo\LAB\LAB\x64\Release\LAB.vcxproj.AssemblyReference.cache
+C:\Users\Agustin\Documents\#Visual Comunity proyectos\listo\LAB\LAB\x64\Release\LAB.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Agustin\Documents\#Visual Comunity proyectos\listo\LAB\LAB\x64\Release\LAB.Actualizar.resources
+C:\Users\Agustin\Documents\#Visual Comunity proyectos\listo\LAB\LAB\x64\Release\LAB.Borrar.resources
+C:\Users\Agustin\Documents\#Visual Comunity proyectos\listo\LAB\LAB\x64\Release\LAB.consultar.resources
+C:\Users\Agustin\Documents\#Visual Comunity proyectos\listo\LAB\LAB\x64\Release\LAB.Form1.resources
+C:\Users\Agustin\Documents\#Visual Comunity proyectos\listo\LAB\LAB\x64\Release\LAB.vcxproj.GenerateResource.cache
+C:\Users\Agustin\Documents\#Visual Comunity proyectos\listo\LAB\LAB\x64\Release\LAB.vcxproj.CopyComplete

@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  Actualizar.cpp
+  AssemblyInfo.cpp
+  Borrar.cpp
+  consultar.cpp
+  CppCLR_WinFormsProject.cpp
+  DB.cpp
+  Form1.cpp
+  Generando código...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Actualizar.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  LAB.vcxproj -> C:\Users\Agustin\Documents\#Visual Comunity proyectos\listo\LAB\x64\Release\LAB.exe
